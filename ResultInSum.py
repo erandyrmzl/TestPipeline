@@ -1,4 +1,4 @@
-a=1
-b=3
-c=a+b
+a=164
+b=26
+c=(a+b)
 print("Result is:",c)
